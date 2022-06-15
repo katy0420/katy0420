@@ -1,8 +1,8 @@
 # 💫About Me :
-🔭 I'm currently practicing my python by picking up some mini projects
-👊🏻 I’m looking to collaborate on any fun project with FE or BE
-🎶 I’m currently learning Ukelulu 
-⚡️ Fun fact: I still enjoy offline shopping more!
+🔭 I'm currently practicing my python by picking up some mini projects<br>
+👊🏻 I’m looking to collaborate on any fun project with FE or BE<br>
+🎶 I’m currently learning Ukelulu<br>
+⚡️ Fun fact: I still enjoy offline shopping more!<br>
 📧 Reach me at: katytong0420@gmail.com
 
 ## 🌐Socials
